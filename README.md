@@ -1,0 +1,1 @@
+This is Mare's first git project!
